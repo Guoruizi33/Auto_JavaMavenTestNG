@@ -1,0 +1,69 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "Login",
+      "children" : [ {
+        "name" : "baiduHomePage",
+        "uid" : "4d4741a46203bf9c",
+        "parentUid" : "7a535573781cbaac75474b65903a3d61",
+        "status" : "passed",
+        "time" : {
+          "start" : 1590544331885,
+          "stop" : 1590544332259,
+          "duration" : 374
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "baiduHomePage2",
+        "uid" : "4f2b69d2a759e370",
+        "parentUid" : "7a535573781cbaac75474b65903a3d61",
+        "status" : "passed",
+        "time" : {
+          "start" : 1590544337361,
+          "stop" : 1590544337726,
+          "duration" : 365
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a535573781cbaac75474b65903a3d61"
+    }, {
+      "name" : "Register",
+      "children" : [ {
+        "name" : "loginJianShu",
+        "uid" : "22fa53a2024b1e74",
+        "parentUid" : "04bbc5e50704bce3b5356c939d07605b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1590544341691,
+          "stop" : 1590544341957,
+          "duration" : 266
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "openJianShu",
+        "uid" : "70eb65f812f24c78",
+        "parentUid" : "04bbc5e50704bce3b5356c939d07605b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1590544344384,
+          "stop" : 1590544345036,
+          "duration" : 652
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "04bbc5e50704bce3b5356c939d07605b"
+    } ],
+    "uid" : "141fa05f02bf329144b0086cf92149a8"
+  } ]
+}

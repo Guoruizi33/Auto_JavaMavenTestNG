@@ -1,0 +1,41 @@
+[ {
+  "uid" : "81cf55aa70dcdecf",
+  "name" : "baiduHomePage2",
+  "time" : {
+    "start" : 1590544337361,
+    "stop" : 1590544337726,
+    "duration" : 365
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c4bea7026612a61",
+  "name" : "baiduHomePage",
+  "time" : {
+    "start" : 1590544331885,
+    "stop" : 1590544332259,
+    "duration" : 374
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41c605946b6abd12",
+  "name" : "loginJianShu",
+  "time" : {
+    "start" : 1590544341691,
+    "stop" : 1590544341957,
+    "duration" : 266
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1bb4082c9ce73f3",
+  "name" : "openJianShu",
+  "time" : {
+    "start" : 1590544344384,
+    "stop" : 1590544345036,
+    "duration" : 652
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

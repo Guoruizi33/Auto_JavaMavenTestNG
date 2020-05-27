@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 27 09:52:17 CST 2020","Wed May 27 09:52:17 CST 2020","365","JianShu","Test1","testcases.Login","testcases.Login","baiduHomePage2","baiduHomePage2",""
+"passed","Wed May 27 09:52:21 CST 2020","Wed May 27 09:52:21 CST 2020","266","JianShu","Test2","testcases.Register","testcases.Register","loginJianShu","loginJianShu",""
+"passed","Wed May 27 09:52:11 CST 2020","Wed May 27 09:52:12 CST 2020","374","JianShu","Test1","testcases.Login","testcases.Login","baiduHomePage","baiduHomePage",""
+"passed","Wed May 27 09:52:24 CST 2020","Wed May 27 09:52:25 CST 2020","652","JianShu","Test2","testcases.Register","testcases.Register","openJianShu","openJianShu",""

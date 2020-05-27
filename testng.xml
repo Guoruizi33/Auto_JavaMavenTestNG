@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="JianShu" parallel="tests" thread-count="1">
+    <test name="Test1">
+        <classes>
+            <class name="testcases.BeforeAfterTest"></class>
+            <class name="testcases.Login"></class>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="testcases.Register"></class>
+        </classes>
+    </test>
+</suite>
